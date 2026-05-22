@@ -1,0 +1,3 @@
+# 这是我上传到GitHub的第一个代码文件
+# 存储路径：D:\A_Github\test_repo
+print("Hello GitHub！我的学习记录开始啦～")
